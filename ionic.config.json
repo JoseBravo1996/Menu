@@ -1,0 +1,11 @@
+{
+  "name": "Menu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [{
+    "path":"/deezerAPI",
+    "proxyUrl":"https://api.deezer.com/"
+  }]
+}
